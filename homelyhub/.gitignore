@@ -1,0 +1,9 @@
+# Node modules
+node_modules/
+
+# Environment files
+backend/.env
+
+.vscode/
+
+.vscode/settings.json
