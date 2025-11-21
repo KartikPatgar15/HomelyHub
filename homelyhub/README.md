@@ -23,9 +23,7 @@ Users can:
 **Deployment:**  
 - Frontend → **Vercel**  
 - Backend → **Render**
-
 ---
-
 ## 🌐 Deployment Links
 
 - **Frontend (Vercel):** [https://your-frontend-url.vercel.app](https://ynvnk-homelyhub.vercel.app/)  
@@ -39,7 +37,7 @@ Follow these steps to set up and run Homely Hub locally:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/homely-hub.git
+git clone https://github.com/KartikPatgar15/HomelyHub.git
 cd homely-hub
 ```
 
